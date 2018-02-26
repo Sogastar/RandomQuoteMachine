@@ -1,0 +1,18 @@
+
+
+
+.navbar{
+  background: white;
+  
+}
+
+.nav{
+  color: black;
+   
+}
+
+#quote{
+    
+  background-color: orange;
+}
+
