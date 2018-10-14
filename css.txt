@@ -7,7 +7,7 @@
 }
 
 .nav{
-  color: black;
+  color: blue;
    
 }
 
